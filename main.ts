@@ -1,5 +1,5 @@
 // Leonida Legend — GTA VI trophy guide & tracker, make.fun entry gta6-trophy-guide-01.
-// The guide itself is plain static files: app/index.html, app/app.js, app/style.css and
+// The guide is plain static files: app/index.html, app/app.js, app/style.css and
 // app/data/trophies.json (the official 55, each with a guide in our own words and its
 // sources). It runs offline from app/ with no build step and no network at run time.
 // This program hands it in: it copies app/ and screenshots/ from beside this file into
